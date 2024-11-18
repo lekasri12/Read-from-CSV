@@ -2,6 +2,7 @@
 ## Date:
 
 ## AIM:
+To write a python program for reading the csv file content
 
 ## ALGORITHM:
 ### Step 1:
@@ -21,6 +22,7 @@ Increase the maximum number of rows to display the entire DataFrame.
 
 ## PROGRAM:
 Developed by: G Lekasri
+
 Register number: 212223100025
 ```
 import pandas as pd
